@@ -48,7 +48,6 @@
     "rewrap.wrappingColumn": 80,
     "rewrap.autoWrap.enabled": true,
     "materialTheme.accent": "Cyan",
-    "python.pythonPath": "/usr/local/bin/python3",
     "editor.minimap.enabled": false,
     "editor.hideCursorInOverviewRuler": true,
     "editor.scrollbar.vertical": "hidden",
