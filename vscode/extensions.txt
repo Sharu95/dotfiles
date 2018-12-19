@@ -1,0 +1,9 @@
+Equinusocio.vsc-material-theme
+James-Yu.latex-workshop
+mechatroner.rainbow-csv
+minhthai.vscode-todo-parser
+ms-python.python
+oderwat.indent-rainbow
+PKief.material-icon-theme
+stkb.rewrap
+vscodevim.vim
