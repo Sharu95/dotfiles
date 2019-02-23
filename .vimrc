@@ -1,21 +1,21 @@
 
 call plug#begin('~/.vim/bundle')
 
-" Plug 'sheerun/vim-polyglot'
+Plug 'sheerun/vim-polyglot'
 Plug 'scrooloose/nerdtree'
-Plug 'hzchirs/vim-material'
-Plug 'tyrannicaltoucan/vim-quantum'
+"Plug 'hzchirs/vim-material'
+"Plug 'tyrannicaltoucan/vim-quantum'
 
 call plug#end()
-syntax off 
+"syntax off 
 
 set number relativenumber
 " set colorcolumn=80
 
 "let g:material_style='default'
-set background=dark
+"set background=dark
 "set termguicolors
-colorscheme quantum
+"colorscheme quantum
 
 
 autocmd VimEnter * NERDTree
